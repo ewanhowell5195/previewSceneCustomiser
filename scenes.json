@@ -1,7 +1,7 @@
 [
   {
-    "name": "Other",
-    "icon": "more_horiz",
+    "name": "Entities",
+    "icon": "icon-player",
     "scenes": [
       {
         "id": "player",
