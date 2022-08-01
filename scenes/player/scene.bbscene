@@ -1,0 +1,208 @@
+{
+	"credit": "By Ewan Howell",
+	"texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAARVBMVEUAAAAPb7gYjdQhJCUsMDEvo+pHs/W6urrt7e3W1tb///9NUlMYGRk8QUMqKyxtcnWYmpsMSZwMUJ0gOlH39/cJJkBt0f1FnF+YAAAAAXRSTlMAQObYZgAAAo1JREFUeF7tltlyozAQRdG+gNcl//+pc3sZCyOnwMODX+ZUIhSKe9JtI9Dwl6iYK2OGT4kghD2CHzZ8VUCGXS0wOwRs2FOB8lA+DmoFHRsFP41PBYHzqPn20CHI9xmYDYKg+XyTAQZgg7IqoCsjUvmWdXhQ2FqMdFgVGLpUir/dpAc6ZTAQZl1AlyJF9aMByZvGuoARg+SFj9aEc9N0AYOSC5GzU57ngUF5vWCCwLkm4B5sL6g1o7K3ArdFUCGIxr4RgJcWYEA+e++A9y8CG18Fzp9OpwOunIQMaiUBrhYq0AOOylPg/QF4pwafU2oZzEvJc08BSwGAwbPAsaAccz3mXHiOJFycw5hAIWb9U9xJBRhxURPQXEu/LmgVaA9wkMDzPzseM3643KLdPG+v5R3qPBhHbgGggiYQpHtjCU1jMm8BaA8YOKMf2HxuQxADSWxoq3QigbZAlEQhBpPEAswhIFQQXgSuFxTNP22FBDGywL4KUBYUiFtBviYF86Qza+eC2ATmDmeM1mJi7neTfkGuCtJCnN3OlwXyoTqgB4VStA6YdwvqnNJ52ENyLn1XUO738o9RPA+GXRzG8YuC7egtnZj2QOn4z+7Pxpidglp5VZ4xyKHNf80gUGgdFCR2Lel5eJoW+wVAD5HNy3nS1323L9gqcL2gooC4/jzo9wtNEG1cfyho+c4f8Le8KTKYbw1+E4zjQSaSJ7wnhbxiPxMgSWkR6I4A0cIMa0CgLztHTNcFiYBPhakXIN52DG6a7wlW7wUVyH5BdwwaVLYJnlsGzCGwkg8Bv1srQANagAoCQZIVQSndfsFYFsS4SWBMt19oAhzjmqDWbr/ALQQ+w/uC1efBZYEhIgSRXZ3gD2DOOBbzpybUAAAAAElFTkSuQmCC",
+	"texture_size": [64, 64],
+	"cubes": [
+		{
+			"name": "body",
+			"position": [-4, 12, -2],
+			"size": [8, 12, 4],
+			"faces": {
+				"north": {"uv": [20, 20, 28, 32]},
+				"east": {"uv": [16, 20, 20, 32]},
+				"south": {"uv": [32, 20, 40, 32]},
+				"west": {"uv": [28, 20, 32, 32]},
+				"up": {"uv": [28, 20, 20, 16]},
+				"down": {"uv": [36, 16, 28, 20]}
+			}
+		},
+		{
+			"name": "jacket",
+			"position": [-4.25, 11.75, -2.25],
+			"size": [8.5, 12.5, 4.5],
+			"faces": {
+				"north": {"uv": [20, 36, 28, 48]},
+				"east": {"uv": [16, 36, 20, 48]},
+				"south": {"uv": [32, 36, 40, 48]},
+				"west": {"uv": [28, 36, 32, 48]},
+				"up": {"uv": [28, 36, 20, 32]},
+				"down": {"uv": [36, 32, 28, 36]}
+			}
+		},
+		{
+			"name": "head",
+			"position": [-4, 24, -4],
+			"size": [8, 8, 8],
+			"faces": {
+				"north": {"uv": [8, 8, 16, 16]},
+				"east": {"uv": [0, 8, 8, 16]},
+				"south": {"uv": [24, 8, 32, 16]},
+				"west": {"uv": [16, 8, 24, 16]},
+				"up": {"uv": [16, 8, 8, 0]},
+				"down": {"uv": [24, 0, 16, 8]}
+			}
+		},
+		{
+			"name": "headwear",
+			"position": [-4.5, 23.5, -4.5],
+			"size": [9, 9, 9],
+			"faces": {
+				"north": {"uv": [40, 8, 48, 16]},
+				"east": {"uv": [32, 8, 40, 16]},
+				"south": {"uv": [56, 8, 64, 16]},
+				"west": {"uv": [48, 8, 56, 16]},
+				"up": {"uv": [48, 8, 40, 0]},
+				"down": {"uv": [56, 0, 48, 8]}
+			}
+		},
+		{
+			"name": "left_arm",
+			"position": [-8, 12, -2],
+			"size": [4, 12, 4],
+			"faces": {
+				"north": {"uv": [36, 52, 40, 64]},
+				"east": {"uv": [32, 52, 36, 64]},
+				"south": {"uv": [44, 52, 48, 64]},
+				"west": {"uv": [40, 52, 44, 64]},
+				"up": {"uv": [40, 52, 36, 48]},
+				"down": {"uv": [44, 48, 40, 52]}
+			}
+		},
+		{
+			"name": "left_sleve",
+			"position": [-8.25, 11.75, -2.25],
+			"size": [4.5, 12.5, 4.5],
+			"faces": {
+				"north": {"uv": [52, 52, 56, 64]},
+				"east": {"uv": [48, 52, 52, 64]},
+				"south": {"uv": [60, 52, 64, 64]},
+				"west": {"uv": [56, 52, 60, 64]},
+				"up": {"uv": [56, 52, 52, 48]},
+				"down": {"uv": [60, 48, 56, 52]}
+			}
+		},
+		{
+			"name": "right_arm",
+			"position": [4, 12, -2],
+			"size": [4, 12, 4],
+			"faces": {
+				"north": {"uv": [44, 20, 48, 32]},
+				"east": {"uv": [40, 20, 44, 32]},
+				"south": {"uv": [52, 20, 56, 32]},
+				"west": {"uv": [48, 20, 52, 32]},
+				"up": {"uv": [48, 20, 44, 16]},
+				"down": {"uv": [52, 16, 48, 20]}
+			}
+		},
+		{
+			"name": "right_sleve",
+			"position": [3.75, 11.75, -2.25],
+			"size": [4.5, 12.5, 4.5],
+			"faces": {
+				"north": {"uv": [44, 36, 48, 48]},
+				"east": {"uv": [40, 36, 44, 48]},
+				"south": {"uv": [52, 36, 56, 48]},
+				"west": {"uv": [48, 36, 52, 48]},
+				"up": {"uv": [48, 36, 44, 32]},
+				"down": {"uv": [52, 32, 48, 36]}
+			}
+		},
+		{
+			"name": "left_leg",
+			"position": [-3.9, 0, -1.9],
+			"size": [4, 12, 4],
+			"origin": [0.1, 0, 0.1],
+			"faces": {
+				"north": {"uv": [20, 52, 24, 64]},
+				"east": {"uv": [16, 52, 20, 64]},
+				"south": {"uv": [28, 52, 32, 64]},
+				"west": {"uv": [24, 52, 28, 64]},
+				"up": {"uv": [24, 52, 20, 48]},
+				"down": {"uv": [28, 48, 24, 52]}
+			}
+		},
+		{
+			"name": "left_pants",
+			"position": [-4.15, -0.25, -2.15],
+			"size": [4.5, 12.5, 4.5],
+			"origin": [0.1, 0, 0.1],
+			"faces": {
+				"north": {"uv": [4, 52, 8, 64]},
+				"east": {"uv": [0, 52, 4, 64]},
+				"south": {"uv": [12, 52, 16, 64]},
+				"west": {"uv": [8, 52, 12, 64]},
+				"up": {"uv": [8, 52, 4, 48]},
+				"down": {"uv": [12, 48, 8, 52]}
+			}
+		},
+		{
+			"name": "right_leg",
+			"position": [-0.1, 0, -1.9],
+			"size": [4, 12, 4],
+			"origin": [-0.1, 0, 0.1],
+			"faces": {
+				"north": {"uv": [4, 20, 8, 32]},
+				"east": {"uv": [0, 20, 4, 32]},
+				"south": {"uv": [12, 20, 16, 32]},
+				"west": {"uv": [8, 20, 12, 32]},
+				"up": {"uv": [8, 20, 4, 16]},
+				"down": {"uv": [12, 16, 8, 20]}
+			}
+		},
+		{
+			"name": "right_pants",
+			"position": [-0.35, -0.25, -2.15],
+			"size": [4.5, 12.5, 4.5],
+			"origin": [-0.1, 0, 0.1],
+			"faces": {
+				"north": {"uv": [4, 36, 8, 48]},
+				"east": {"uv": [0, 36, 4, 48]},
+				"south": {"uv": [12, 36, 16, 48]},
+				"west": {"uv": [8, 36, 12, 48]},
+				"up": {"uv": [8, 36, 4, 32]},
+				"down": {"uv": [12, 32, 8, 36]}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "body",
+			"origin": [0, 24, 0],
+			"color": 0,
+			"children": [
+				0,
+				1,
+				{
+					"name": "head",
+					"origin": [0, 24, 0],
+					"color": 0,
+					"children": [2, 3]
+				},
+				{
+					"name": "left_arm",
+					"origin": [5, 22, 0],
+					"color": 0,
+					"children": [4, 5]
+				},
+				{
+					"name": "right_arm",
+					"origin": [-5, 22, 0],
+					"color": 0,
+					"children": [6, 7]
+				},
+				{
+					"name": "left_leg",
+					"origin": [2.1, 12, 0.1],
+					"color": 0,
+					"children": [8, 9]
+				},
+				{
+					"name": "right_leg",
+					"origin": [-2.1, 12, 0.1],
+					"color": 0,
+					"children": [10, 11]
+				}
+			]
+		}
+	]
+}

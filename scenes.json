@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Other",
+    "icon": "more_horiz",
+    "scenes": [
+      {
+        "id": "player",
+        "name": "Player Skin",
+        "author": "Ewan Howell"
+      }
+    ]
+  }
+]
