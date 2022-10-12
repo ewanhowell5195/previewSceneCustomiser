@@ -14,5 +14,16 @@
         "author": "asphyxxious"
       }
     ]
+  },
+  {
+    "name": "Buildings",
+    "icon": "home",
+    "scenes": [
+      {
+        "id": "villager_house",
+        "name": "Villager House",
+        "author": "Ewan Howell"
+      }
+    ]
   }
 ]
