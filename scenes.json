@@ -12,6 +12,11 @@
         "id": "player_head",
         "name": "Player Head",
         "author": "asphyxxious"
+      },
+      {
+        "id": "snapshot_day",
+        "name": "It is snapshotday, my dudes",
+        "author": "Daminator4113"
       }
     ]
   },
