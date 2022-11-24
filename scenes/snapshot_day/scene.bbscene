@@ -1,0 +1,94 @@
+{
+	"credits": "https://twitter.com/JasperBoerstra/status/981469352024330240?s=20&t=MgH0JiD2LL5g62GDKno7dA",
+	"settings": {
+		"renderSide": 2,
+		"lightSide": 0,
+		"lightColour": "#ffffff",
+		"tintColour": "#ffffff",
+		"shading": true
+	},
+	"texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAvdJREFUeF7tWb1KA0EQvusUCYgSEbEKiKKFCLbqG4hgYSX4BlY+hZVvIFhZCOIbqK0gFooipBIRgyIE0S4ywQnjunuzm7m9ZC+bLnf7M/PtNzPf7KWJ4Pd6vt/STa+MVv89Hl7cSQVbeZsqMgoBQIeHqhWjoenUpmgvXwiIjAIAwPksx9HwCEBZGVCdqVmxs7QMGGgAvm4OWzbxDxQpJQMGHgCoAgMdAlQHmELhu9FsJ8lSCqHb4922EqxOTv+pBKoSbH402u85zQBgwdiJtT2RPrEqS7+DRBsBALW5pfZSHAPAsdIB4KIEG4/18gGAVQCo+zm7nYy/n3bY9za2kYw8HHWYAQBgGGRRNKgQoGUQQKjfXyfzK6vJ3eVFAqFBwwKeqbnCBEShOYBraTGBNV6eOg5gklPjGh1HIEwOYrLjcgLMxyqiroV2qc9dwUs5MYPUpRuB4abMDgZnqUOdQzbjbRQnrO1ablkAbE6AO0nTGghqTwHgMjnSVaUahIROA7jUYE4b0L1tQO4mgYp0gMlZ0Af9mPB09noBABOrqU/AkOjmxFwZxo33BoAvynIOub7vGQBgKFQY17Ll6iA3PgLAIdTNe66y4JqRAWUPgaw2ufQ5oB87v8J0QFBCCBOWjq60ubBJbOqVlq7RoiKIskTXDxQhmFIKAKUIdntYp9UPoabqQNVd1hzaTXKVxqdiTDm6IgDcOOqEChrnIPceGq+FrQMvmsXLotQhCAP8Ty9XshxaXlpvXV2febcN7PK+Cc0DIHygQcoSQOA8BdA3EH0HABcOeb+PAOSNqLqeawj4tkddv3AG4IVqr9tgBCJ3AGjWx01sLj1xrOutrpQxuQPQej7pZHFUcgAAfhrTlUR4hneIRTMjdwB0H1rodwT1xNTb5eABkFKy6Pm5M6BoB6T7RQCkCIY+PzIg9BOU2h8ZIEUw9PmRAaGfoNT+yAApgqHPjwwI/QSl9kcGSBEMfX5kQOgnKLU/MkCKYOjzIwNCP0Gp/QPPgB9nA8xQkVdH7gAAAABJRU5ErkJggg==",
+	"cubes": [
+		{
+			"name": "left_leg",
+			"position": [-17, -14, -17],
+			"size": [6, 6, 12],
+			"origin": [-6, -1, 2.25],
+			"faces": {
+				"north": {"uv": [6, 9.5, 6.75, 10.25]},
+				"east": {"uv": [4.5, 9.5, 6, 10.25]},
+				"south": {"uv": [8.25, 9.5, 9, 10.25]},
+				"west": {"uv": [6.75, 9.5, 8.25, 10.25]},
+				"up": {"uv": [6.75, 9.5, 6, 8]},
+				"down": {"uv": [7.5, 8, 6.75, 9.5]}
+			}
+		},
+		{
+			"name": "right_leg",
+			"position": [11, -14, -17],
+			"size": [6, 6, 12],
+			"origin": [22, -1, 2.25],
+			"faces": {
+				"north": {"uv": [6.75, 9.5, 6, 10.25]},
+				"east": {"uv": [8.25, 9.5, 6.75, 10.25]},
+				"south": {"uv": [9, 9.5, 8.25, 10.25]},
+				"west": {"uv": [6, 9.5, 4.5, 10.25]},
+				"up": {"uv": [6, 9.5, 6.75, 8]},
+				"down": {"uv": [6.75, 8, 7.5, 9.5]}
+			}
+		},
+		{
+			"name": "body_top",
+			"position": [-11, -8, -19],
+			"size": [22, 8, 30],
+			"origin": [8, 6, 9.25],
+			"faces": {
+				"north": {"uv": [3.75, 3.75, 6.5, 4.75]},
+				"east": {"uv": [0, 3.75, 3.75, 4.75]},
+				"south": {"uv": [10.25, 3.75, 13, 4.75]},
+				"west": {"uv": [6.5, 3.75, 10.25, 4.75]},
+				"up": {"uv": [6.5, 3.75, 3.75, 0]},
+				"down": {"uv": [9.25, 0, 6.5, 3.75]}
+			}
+		},
+		{
+			"name": "body_bottom",
+			"position": [-11, -14, -9],
+			"size": [22, 6, 20],
+			"origin": [8, -1, 14.25],
+			"faces": {
+				"north": {"uv": [2.5, 7.25, 5.25, 8]},
+				"east": {"uv": [0, 7.25, 2.5, 8]},
+				"south": {"uv": [7.75, 7.25, 10.5, 8]},
+				"west": {"uv": [5.25, 7.25, 7.75, 8]},
+				"down": {"uv": [8, 4.75, 5.25, 7.25]}
+			}
+		},
+		{
+			"name": "left_eye",
+			"position": [-5, 0, -17],
+			"size": [2, 1, 2],
+			"origin": [4, 10.5, -2.75],
+			"faces": {
+				"north": {"uv": [9.25, 8.25, 9.5, 8.5]},
+				"east": {"uv": [9, 8.25, 9.25, 8.5]},
+				"south": {"uv": [9.75, 8.25, 10, 8.5]},
+				"west": {"uv": [9.5, 8.25, 9.75, 8.5]},
+				"up": {"uv": [9.5, 8.25, 9.25, 8]}
+			}
+		},
+		{
+			"name": "right_eye",
+			"position": [3, 0, -17],
+			"size": [2, 1, 2],
+			"origin": [27, 26, 12.25],
+			"faces": {
+				"north": {"uv": [9.25, 8.25, 9.5, 8.5]},
+				"east": {"uv": [9, 8.25, 9.25, 8.5]},
+				"south": {"uv": [9.75, 8.25, 10, 8.5]},
+				"west": {"uv": [9.5, 8.25, 9.75, 8.5]},
+				"up": {"uv": [9.5, 8.25, 9.25, 8]}
+			}
+		}
+	]
+}
