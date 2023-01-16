@@ -30,5 +30,17 @@
         "author": "Ewan Howell"
       }
     ]
-  }
+  },
+  
+   {
+    "name": "Environment",
+    "icon": "sun",
+    "scenes": [
+      {
+        "id": "plains_meadow",
+        "name": "Plains - Meadow",
+        "author": "radicalTailor"
+      }
+    ]
+  },
 ]
