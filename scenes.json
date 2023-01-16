@@ -33,7 +33,7 @@
   },
   {
     "name": "Environment",
-    "icon": "sun",
+    "icon": "light_mode",
     "scenes": [
       {
         "id": "plains_meadow",
