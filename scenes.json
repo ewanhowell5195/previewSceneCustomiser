@@ -31,8 +31,7 @@
       }
     ]
   },
-  
-   {
+  {
     "name": "Environment",
     "icon": "sun",
     "scenes": [
