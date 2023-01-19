@@ -39,6 +39,11 @@
         "id": "plains_meadow",
         "name": "Plains - Meadow",
         "author": "radicalTailor"
+      },
+      {
+        "id": "waterfall",
+        "name": "Waterfall",
+        "author": "radicalTailor"
       }
     ]
   }
