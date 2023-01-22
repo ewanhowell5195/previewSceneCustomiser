@@ -28,6 +28,11 @@
         "id": "villager_house",
         "name": "Villager House",
         "author": "Ewan Howell"
+      },
+      {
+        "id": "chest_base",
+        "name": "Chest Base",
+        "author": "PhantomEye"
       }
     ]
   },
