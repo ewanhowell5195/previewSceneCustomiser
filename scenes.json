@@ -1,6 +1,6 @@
 [
   {
-    "name": "Entities",
+    "id": "entities",
     "icon": "icon-player",
     "scenes": [
       {
@@ -10,7 +10,6 @@
       },
       {
         "id": "player_head",
-        "name": "Player Head",
         "author": "asphyxxious"
       },
       {
@@ -21,23 +20,21 @@
     ]
   },
   {
-    "name": "Buildings",
+    "id": "buildings",
     "icon": "home",
     "scenes": [
       {
         "id": "villager_house",
-        "name": "Villager House",
         "author": "Ewan Howell"
       },
       {
         "id": "chest_base",
-        "name": "Chest Base",
         "author": "PhantomEye"
       }
     ]
   },
   {
-    "name": "Environment",
+    "id": "environment",
     "icon": "light_mode",
     "scenes": [
       {
@@ -47,7 +44,6 @@
       },
       {
         "id": "waterfall",
-        "name": "Waterfall",
         "author": "radicalTailor"
       }
     ]
