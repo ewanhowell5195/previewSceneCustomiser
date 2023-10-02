@@ -25,7 +25,8 @@
     "scenes": [
       {
         "id": "villager_house",
-        "author": "Ewan Howell"
+        "author": "Ewan Howell",
+        "eula": true
       },
       {
         "id": "chest_base",

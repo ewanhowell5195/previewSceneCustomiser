@@ -20,6 +20,6 @@ You can submit your own preview scenes to this repository for everyone to use.
 
 
 ## Official Minecraft Assets
-Some assets in this repository may contain official Minecraft assets. Any textures for a preview scene with `eula` set to `true` will be licensed under the Minecraft End User License Agreement (see [LICENSE.md](./LICENSE.md)).
+Some textures in this repository may contain official Minecraft assets. Any textures for a preview scene with `eula` set to `true` will be licensed under the Minecraft End User License Agreement (see [LICENSE.md](./LICENSE.md)).
 
 If you are submitting a preview scene that uses official Minecraft assets, you must set `eula` to `true` for the preview scene.
